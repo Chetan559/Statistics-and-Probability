@@ -1,2 +1,6 @@
 scripts.ipynb
 Pdfs/*
+.vscode/*
+__pycache__/
+*.pyc
+.vscode/settings.json
