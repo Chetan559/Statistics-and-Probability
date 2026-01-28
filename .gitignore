@@ -4,3 +4,4 @@ Pdfs/*
 __pycache__/
 *.pyc
 .vscode/settings.json
+Code/*
